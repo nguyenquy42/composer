@@ -1,5 +1,5 @@
 {
-    "name": "nguyenquy42/hello-world",
+    "name": "nguyenquy42/database",
     "description": "the first composer package",
     "type": "php",
     "license": "MIT",
@@ -11,11 +11,11 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "php": ">=5.3.0"
+        "php": ">=5.6.38"
     },
     "autoload": {
         "psr-4": {
-            "nguyenquy42\\SayHello\\": "src/"
+            "nguyenquy42\\Database\\": "src/"
         }
     }
 }
