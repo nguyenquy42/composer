@@ -1,5 +1,4 @@
 <?php
-    namespace nguyenquy42\database;
 
     class Database 
     {
