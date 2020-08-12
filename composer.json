@@ -9,13 +9,11 @@
             "email": "nguyenquy26012014@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "dev-master",
     "require": {
         "php": ">=5.6.38"
     },
     "autoload": {
-        "psr-4": {
-            "nguyenquy42\\Database\\": "src/"
-        }
+        "files":  ["Database.php"]
     }
 }
